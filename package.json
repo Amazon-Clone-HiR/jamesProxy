@@ -1,0 +1,24 @@
+{
+  "name": "jamesproxy",
+  "version": "1.0.0",
+  "description": "a proxy server for a microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "TBD"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amazon-Clone-HiR/jamesProxy.git"
+  },
+  "author": "James Dempsey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amazon-Clone-HiR/jamesProxy/issues"
+  },
+  "homepage": "https://github.com/Amazon-Clone-HiR/jamesProxy#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  }
+}
